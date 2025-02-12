@@ -39,7 +39,7 @@ class Solution {
     string s;
     getline(cin,s);
     vector <string> a;   
-    Solution obj;
+    Solution obj;      
     a=obj.letterCombinations(s);
     for(int i=0;i<a.size();i++)
     {
