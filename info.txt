@@ -1,2 +1,5 @@
 //recursion is basically the process of solving bigger problems from the smaller ones by calling the function itself
 to terminate the function itself we need to make use of base condition
+
+
+//prefix of array is a very important concept that helps us to solve many problems
