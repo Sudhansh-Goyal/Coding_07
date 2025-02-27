@@ -43,3 +43,5 @@ int main()
     cout<<ans;
 
 }
+
+//log n is the time complexity of the recursion
