@@ -19,7 +19,8 @@ void solve(vector <int> arr)
         
         
     }
-    cout<<res;
+    cout<<res
+    ;
 }
 int main()
 {

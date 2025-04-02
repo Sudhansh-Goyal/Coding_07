@@ -1,0 +1,9 @@
+when there is an array of size n and each elemnt is in a certain range then we make use of counting sort
+when data is uniformally distributed over the array then we make use of bucket sort
+when memory writes are costly then we make use of selection sort/cycle sort
+when we can swap the adjacent elements then we can make use of bubble sort or cocktail sort
+when the number of available elements are very less then we can make use of insertion sort and generally this is the best algorithm
+shell sort is one of the algorithms that does not use extra space
+usually the time required for sorting the algorithm is nlogn that is usually in merge sort,quick sort,heap sort
+predefined sort function uses quick sort and time complexity is nlogn 
+stability means if two elements have the same value then while sorting they should appear in the same as in the original array like they are associated with the original array
